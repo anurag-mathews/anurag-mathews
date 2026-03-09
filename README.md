@@ -54,11 +54,11 @@ Internships or early-career roles in software engineering, game development, or 
 
 ---
 
-## Want to collaborate or interview?
+## Want to hire, collaborate, or interview?
 Email: **anuragmat5@gmail.com** · 
 
 ---
 
 ### Footer
-Thanks for stopping by — feel free to browse my repos or reach out for collabs, internships, or code reviews.  
+Thanks for stopping by — feel free to browse my repos or reach out for collabs, internships, or code reviews. I also build web applications for customers! 
 (Repo highlights pulled from my public GitHub profile.)
